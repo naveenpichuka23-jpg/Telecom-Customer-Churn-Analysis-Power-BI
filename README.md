@@ -149,8 +149,4 @@ Dashboard Visualizations
 The analysis identified contract type, tenure, and payment method as the strongest churn predictors.
 Implementing targeted retention programs and long-term contract incentives can significantly reduce churn and enhance business growth.
 
-If you'd like, I can also create:
-✅ A GitHub-ready version
-✅ A PDF version
-✅ A README with images/visual placeholders
-Just tell me!Sources
+
